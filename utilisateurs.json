@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nom": "JEAN",
+    "motDePasse": "jean@gmail.com",
+    "role": "bibliothecaire"
+  },
+  {
+    "id": 2,
+    "nom": "buba",
+    "motDePasse": "buba@gmail.com",
+    "role": "lecteur"
+  }
+]

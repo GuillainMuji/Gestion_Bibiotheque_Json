@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "titre": "Pomme",
+    "auteur": "Jean",
+    "isbn": "IRS",
+    "annee": 2023,
+    "disponible": false
+  },
+  {
+    "id": 0,
+    "titre": "1",
+    "auteur": "43",
+    "isbn": "34",
+    "annee": 34,
+    "disponible": true
+  },
+  {
+    "id": 0,
+    "titre": "APPRENDE C ",
+    "auteur": "GRAVEN",
+    "isbn": "IRS",
+    "annee": 2020,
+    "disponible": true
+  }
+]
